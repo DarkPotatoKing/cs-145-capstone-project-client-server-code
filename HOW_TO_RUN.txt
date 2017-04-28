@@ -1,0 +1,9 @@
+1. Start the server using "python server.py 3000" in one terminal
+	- the 3000 is the port number, you can change it but you also have to change
+	  line 11 in Post.java "URL url = new URL("http://localhost:3000/");"
+	  to the new port number
+2. Compile and run the java code (use another terminal)
+	- javac Post.java
+	- java Post
+3. ???
+4. Profit
